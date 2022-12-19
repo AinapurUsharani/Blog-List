@@ -1,0 +1,25 @@
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 30%;
+  height: 10%;
+}
+
+.profile {
+  height: 100px;
+  width: 100px;
+}
+
+.name {
+  font-family: 'Roboto';
+  font-size: 17px;
+  color: #12022f;
+}
+
+.paragraph {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: #12022f;
+}
